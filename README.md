@@ -5,6 +5,7 @@ Profesionally Frontend Engineer, personally Full-Stack Engineer. I build random 
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript" alt="TypeScript logo" title="TypeScript" height="22" />][anch]
 [<img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="22" />][anch]
 [<img src="https://img.shields.io/badge/NextJS-282C34?logo=next.js" alt="NextJS logo" title="NextJS" height="22" />][anch]
+[<img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind-css" alt="Tailwind logo" title="Tailwind" height="22" />][anch]
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon" alt="AWS logo" title="AWS" height="22" />][anch]
 [<img src="https://img.shields.io/badge/Google Cloud-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="22" />][anch]
 [<img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma" alt="Prisma logo" title="Prisma" height="22" />][anch]
