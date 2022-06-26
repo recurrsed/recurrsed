@@ -1,16 +1,30 @@
-### Hi there 👋
+Profesionally Frontend Engineer, personally Full-Stack Engineer. I build random useless stuff...
 
-<!--
-**emirem/emirem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Working with:
 
-Here are some ideas to get you started:
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript" alt="TypeScript logo" title="TypeScript" height="25" />][anch]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="25" />][anch]
+[<img src="https://img.shields.io/badge/NextJS-282C34?logo=next.js" alt="NextJS logo" title="NextJS" height="25" />][anch]
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon" alt="AWS logo" title="AWS" height="25" />][anch]
+[<img src="https://img.shields.io/badge/Google Cloud-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />][anch]
+[<img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma" alt="Prisma logo" title="Prisma" height="25" />][anch]
+[<img src="https://img.shields.io/badge/Cypress-282C34?logo=cypress" alt="Cypress logo" title="Cypress" height="25" />][anch]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experimenting with:
+
+[<img src="https://img.shields.io/badge/Go-282C34?logo=go" alt="Go logo" title="Go" height="25" />][anch]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />][anch]
+[<img src="https://img.shields.io/badge/tRPC-282C34?logo=trpc" alt="tRPC logo" title="tRPC" height="25" />][anch]
+[<img src="https://img.shields.io/badge/ReactQuery-282C34?logo=reactquery" alt="ReactQuery logo" title="ReactQuery" height="25" />][anch]
+[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql" alt="GraphQL logo" title="GraphQL" height="25" />][anch]
+
+## Built:
+
+- [SubSunday exntension](https://chrome.google.com/webstore/detail/sub-sunday/lkbimmhegcbgjpnepmcclangpidneggj?hl=en&authuser=0)
+- [Twitch chat stats](https://www.behind.chat/1082513430)
+
+<h3 align="center">
+  <a href="https://twitter.com/oneknowd">Twitter</a> | <a href="https://instagram.com/node.one">IG</a>
+</h3>
+
+[anch]: #bonjour--
