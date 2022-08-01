@@ -22,6 +22,7 @@ Profesionally Frontend Engineer, personally Full-Stack Engineer. I build random 
 ## Built:
 
 - [SubSunday exntension](https://chrome.google.com/webstore/detail/sub-sunday/lkbimmhegcbgjpnepmcclangpidneggj?hl=en&authuser=0)
+- [Notifize exntension](https://chrome.google.com/webstore/detail/notifize/cihpgeblioblnkpgjcbchhbeoablnndb?hl=en&authuser=0)
 - [Twitch chat stats](https://www.behind.chat/1082513430)
 
 <h3 align="center">
