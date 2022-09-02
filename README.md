@@ -27,7 +27,7 @@ Profesionally Frontend Engineer, personally Full-Stack Engineer. I build random 
 - [Twitch clip shorts/reels](https://stream-shorts.vercel.app)
 
 <h3 align="center">
-  <a href="https://twitter.com/oneknowd" target="_blank">Twitter</a> | <a href="https://instagram.com/node.one" target="_blank">IG</a>
+  <a href="https://twitter.com/oneknowd" target="_blank">Twitter</a> | <a href="https://instagram.com/oneknowd" target="_blank">IG</a>
 </h3>
 
 [anch]: #bonjour--
