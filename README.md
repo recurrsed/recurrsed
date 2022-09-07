@@ -21,10 +21,10 @@ Profesionally Frontend Engineer, personally Full-Stack Engineer. I build random 
 
 ## Built:
 
+- [Twitch chat stats](https://behind-chat.vercel.app/report/1582528919)
+- [Twitch clip shorts/reels](https://stream-shorts.vercel.app)
 - [SubSunday exntension](https://chrome.google.com/webstore/detail/sub-sunday/lkbimmhegcbgjpnepmcclangpidneggj?hl=en&authuser=0)
 - [Notifize exntension](https://chrome.google.com/webstore/detail/notifize/cihpgeblioblnkpgjcbchhbeoablnndb?hl=en&authuser=0)
-- [Twitch chat stats](https://behind-chat.vercel.app/1082513430)
-- [Twitch clip shorts/reels](https://stream-shorts.vercel.app)
 
 <h3 align="center">
   <a href="https://twitter.com/oneknowd" target="_blank">Twitter</a> | <a href="https://instagram.com/oneknowd" target="_blank">IG</a>
