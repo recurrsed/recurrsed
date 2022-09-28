@@ -18,7 +18,7 @@ Profesionally Frontend Engineer, personally Full-Stack Engineer. I build random 
 [<img src="https://img.shields.io/badge/tRPC-282C34?logo=trpc" alt="tRPC logo" title="tRPC" height="22" />][anch]
 [<img src="https://img.shields.io/badge/ReactQuery-282C34?logo=reactquery" alt="ReactQuery logo" title="ReactQuery" height="22" />][anch]
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql" alt="GraphQL logo" title="GraphQL" height="22" />][anch]
-[<img src="https://img.shields.io/badge/AstroJS-282C34?logo=astrojs" alt="AstroJS logo" title="AstroJS" height="22" />][anch]
+[<img src="https://img.shields.io/badge/AstroJS-282C34?logo=astro" alt="Astro logo" title="Astro" height="22" />][anch]
 
 ## Built:
 
