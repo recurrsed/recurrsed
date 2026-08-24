@@ -11,16 +11,17 @@ Profesionally Frontend Engineer, personally Full-Stack Engineer. I build random 
 [<img src="https://img.shields.io/badge/Google Cloud-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="22" />][anch]
 [<img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma" alt="Prisma logo" title="Prisma" height="22" />][anch]
 [<img src="https://img.shields.io/badge/Cypress-282C34?logo=cypress" alt="Cypress logo" title="Cypress" height="22" />][anch]
+[<img src="https://img.shields.io/badge/Auth0-282C34?logo=auth0" alt="Auth0 logo" title="Auth0" height="22" />][anch]
+[<img src="https://img.shields.io/badge/Electron-282C34?logo=electron" alt="Electron logo" title="Electron" height="22" />][anch]
 
 ## Experimenting with:
 
 [<img src="https://img.shields.io/badge/Go-282C34?logo=go" alt="Go logo" title="Go" height="22" />][anch]
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="22" />][anch]
-[<img src="https://img.shields.io/badge/tRPC-282C34?logo=trpc" alt="tRPC logo" title="tRPC" height="22" />][anch]
-[<img src="https://img.shields.io/badge/ReactQuery-282C34?logo=reactquery" alt="ReactQuery logo" title="ReactQuery" height="22" />][anch]
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql" alt="GraphQL logo" title="GraphQL" height="22" />][anch]
 [<img src="https://img.shields.io/badge/Astro-282C34?logo=astro" alt="Astro logo" title="Astro" height="22" />][anch]
 [<img src="https://img.shields.io/badge/Solid-282C34?logo=solid" alt="SolidJS logo" title="Astro" height="22" />][anch]
+[<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel" alt="Laravel logo" title="Laravel" height="22" />][anch]
 
 ## Built:
 
@@ -34,7 +35,7 @@ Profesionally Frontend Engineer, personally Full-Stack Engineer. I build random 
 - [AI Content Creator](https://github.com/recurrsed/ai-content-creator)
 
 <h3 align="center">
-  <a href="https://twitter.com/recurrsed" target="_blank">Twitter</a> | <a href="https://instagram.com/recurrsed" target="_blank">IG</a>
+  <a href="https://twitter.com/recurrsed" target="_blank">Twitter</a>
 </h3>
 
 [anch]: #bonjour--
